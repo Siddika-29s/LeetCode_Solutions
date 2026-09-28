@@ -19,6 +19,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -26,6 +27,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -44,10 +46,15 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
