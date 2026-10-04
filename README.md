@@ -78,4 +78,12 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
