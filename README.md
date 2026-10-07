@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -15,6 +16,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1096-brace-expansion-ii](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
