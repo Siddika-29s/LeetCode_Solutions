@@ -10,6 +10,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
