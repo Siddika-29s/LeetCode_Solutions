@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
@@ -21,6 +22,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1096-brace-expansion-ii](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
@@ -107,6 +110,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
