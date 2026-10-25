@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
+| [1254-number-of-closed-islands](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -158,4 +160,16 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
