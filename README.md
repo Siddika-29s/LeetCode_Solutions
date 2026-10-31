@@ -18,6 +18,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -121,6 +122,7 @@
 | [0022-generate-parentheses](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [3665-twisted-mirror-path-count](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
@@ -188,6 +190,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
