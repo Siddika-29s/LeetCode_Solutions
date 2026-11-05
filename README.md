@@ -10,6 +10,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
@@ -150,6 +153,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
