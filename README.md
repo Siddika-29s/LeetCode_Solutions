@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
