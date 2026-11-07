@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
