@@ -25,6 +25,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Counting
@@ -276,4 +278,8 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
