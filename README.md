@@ -82,6 +82,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -154,6 +155,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -177,6 +179,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Bit Manipulation
 |  |
 | ------- |
