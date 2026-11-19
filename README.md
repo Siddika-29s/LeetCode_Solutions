@@ -21,6 +21,7 @@
 | [1882-process-tasks-using-servers](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -124,6 +125,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -165,6 +167,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
