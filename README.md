@@ -30,6 +30,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -51,6 +52,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -221,6 +223,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
@@ -270,6 +273,7 @@
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Counting
@@ -310,4 +314,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Siddika-29s/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
